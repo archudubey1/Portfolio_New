@@ -398,7 +398,7 @@ const Home = () => {
                   <div class="card card-c ">
                     <img
                       class="img-fluid imag-size img-cls"
-                      src="./images/img2.jpg"
+                      src="./Images/img2.jpg"
                       alt="About Images"
                     />
 
