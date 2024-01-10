@@ -111,7 +111,7 @@ const Home = () => {
                     </li>
                     <li>
                       <i class="bi bi-rounded-right"></i>{" "}
-                      <strong>Website:</strong> imarchana2015@gmail.com
+                      <strong>Experience:</strong>2 years
                     </li>
                     <li>
                       <i class="bi bi-rounded-right"></i>{" "}
