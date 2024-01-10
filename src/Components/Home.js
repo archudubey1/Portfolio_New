@@ -363,7 +363,7 @@ const Home = () => {
                   <div class="card card-c ">
                     <img
                       class="img-fluid imag-size img-cls"
-                      src="./images/img01.jpg"
+                      src="./Images/img01.jpg"
                       alt="About Images"
                     />
 
@@ -380,7 +380,7 @@ const Home = () => {
                   <div class="card card-c ">
                     <img
                       class="img-fluid imag-size img-cls"
-                      src="./images/img1.jpg"
+                      src="./Images/img1.jpg"
                       alt="About Images"
                     />
 
@@ -611,7 +611,7 @@ const Home = () => {
               <div class="col-lg-6">
                 <img
                   className="contact-img"
-                  src="./images/about-6.jpg"
+                  src="./Images/about-6.jpg"
                   class="img-fluid"
                   alt=""
                 />
