@@ -403,12 +403,8 @@ const Home = () => {
                     />
 
                     <div class="card-c__content">
-                      <p class="card-c__title">
-                        Increase SEO Traffic With WordPress
-                      </p>
-                      <p class="card-c__description text-center  card-c__title">
-                        Score: 85%
-                      </p>
+                      <p class="card-c__title">Racing Champion</p>
+                      <p class="card-c__description text-center  card-c__title"></p>
                     </div>
                   </div>
                 </div>
