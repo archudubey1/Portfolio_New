@@ -346,16 +346,11 @@ const Home = () => {
 
               <div className="col-md-12 ">
                 <p className=" pt-4">
-                  Certificates within my portfolio showcase my commitment to
-                  continuous learning and mastery in various fields. Each
-                  certificate represents dedicated effort and proficiency
-                  attained in specialized areas. They serve as tangible proof of
-                  my expertise, validating skills honed through rigorous
-                  training and experience. These certifications not only
-                  highlight my qualifications but also signify a proactive
-                  approach towards personal and professional development. Each
-                  certificate stands as a testament to my dedication, knowledge,
-                  and ongoing pursuit of excellence.
+                  Included in my portfolio is the prestigious winner's
+                  certificate from Happiest Minds Company, marking a significant
+                  achievement in my professional journey. This memorable
+                  accomplishment serves as a testament to my dedication and
+                  skills, highlighting a proud moment in my career.
                 </p>
               </div>
               <div className="d-flex justify-content-center dflexright">
@@ -389,7 +384,7 @@ const Home = () => {
                         Certificate from Happiestminds
                       </p>
                       <p class="card-c__description text-center  card-c__title">
-                        Frist Rank
+                        First Rank
                       </p>
                     </div>
                   </div>
@@ -567,7 +562,7 @@ const Home = () => {
               <div className="col-md-6 form-p ">
                 <p>
                   I am available for freelance work. Connect with me via phone:
-                  9472308194or email: imarchana2015@gmail.com
+                  9472308194 or email: imarchana2015@gmail.com
                 </p>
 
                 <input
